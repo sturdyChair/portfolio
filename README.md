@@ -12,7 +12,7 @@
 > - 개발기간 : 2024.01 ~ 2024.02
 > - 언어 : C++
 > - 그래픽스 : WinAPI
-> - 영상 링크 : https://www.youtube.com/watch?v=FibPBYEuLJE&ab_channel=%EC%A5%AC%EC%8B%A0%EA%B2%8C%EC%9E%84%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8
+> - 영상 링크 : [링크](https://www.youtube.com/watch?v=FibPBYEuLJE&ab_channel=%EC%A5%AC%EC%8B%A0%EA%B2%8C%EC%9E%84%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8)
 >
 
 <br />
@@ -24,7 +24,7 @@
 > - 역할 : 프레임워커, 플레이어, AI
 > - 언어 : C++
 > - 그래픽스 : DirectX 9(메쉬 미사용)
-> - 영상 링크 : https://www.youtube.com/watch?v=p2TZrwMk930&ab_channel=%EC%A5%AC%EC%8B%A0%EA%B2%8C%EC%9E%84%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8
+> - 영상 링크 : [링크](https://www.youtube.com/watch?v=p2TZrwMk930&ab_channel=%EC%A5%AC%EC%8B%A0%EA%B2%8C%EC%9E%84%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8)
 >
 
 <br />
@@ -35,7 +35,7 @@
 > - 개발기간 : 2024.06 ~ 2024.08
 > - 언어 : C++
 > - 그래픽스 : DirectX 11
-> - 영상 링크 : https://www.youtube.com/watch?v=o1cv1M6C4Eo
+> - 영상 링크 : [링크](https://www.youtube.com/watch?v=o1cv1M6C4Eo)
 > 
 
 <br />
@@ -47,7 +47,8 @@
 > - 역할 : 프레임워커, 셰이더, 이펙트, 최종보스 AI
 > - 언어 : C++
 > - 그래픽스 : DirectX 11
-> - 영상 링크 : https://youtu.be/rwTkUgP4ITA (공통영상), https://www.youtube.com/watch?v=1qcnJ9FaIY8 (개인작업)
+> - 영상 링크 : [공통영상](https://youtu.be/rwTkUgP4ITA) , [개인작업]https://www.youtube.com/watch?v=1qcnJ9FaIY8 
+> - 코드 : [https://github.com/sturdyChair/Hi-Fi-Rush]
 >
 
 <br />
