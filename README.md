@@ -47,7 +47,7 @@
 > - 역할 : 프레임워커, 셰이더, 이펙트, 최종보스 AI
 > - 언어 : C++
 > - 그래픽스 : DirectX 11
-> - 영상 링크 : [공통영상](https://youtu.be/rwTkUgP4ITA) , [개인작업]https://www.youtube.com/watch?v=1qcnJ9FaIY8 
+> - 영상 링크 : [공통영상](https://youtu.be/rwTkUgP4ITA) , [개인작업](https://www.youtube.com/watch?v=1qcnJ9FaIY8)
 > - 코드 : [https://github.com/sturdyChair/Hi-Fi-Rush]
 >
 
