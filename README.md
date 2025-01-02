@@ -48,7 +48,7 @@
 > - 언어 : C++
 > - 그래픽스 : DirectX 11
 > - 영상 링크 : [공통영상](https://youtu.be/rwTkUgP4ITA) , [개인작업](https://www.youtube.com/watch?v=1qcnJ9FaIY8)
-> - 코드 : [https://github.com/sturdyChair/Hi-Fi-Rush]
+> - 코드 : [깃허브 링크](https://github.com/sturdyChair/Hi-Fi-Rush)
 >
 
 <br />
