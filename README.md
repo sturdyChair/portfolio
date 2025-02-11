@@ -53,3 +53,14 @@
 >
 
 <br />
+
+## 5. Simple Shooter(개인)
+
+>
+> - 개발기간 : 2024.12 ~ 2025.01
+> - 언어 : C++, Unreal Engine
+> - 영상 링크 : [링크](https://www.youtube.com/watch?v=lIVTU3Tcvj8&ab_channel=%EC%9E%84%EC%9E%AC%ED%9C%98)
+> - 코드 : [깃허브 링크](https://github.com/sturdyChair/UE_SimpleShooter)
+>
+
+<br />
