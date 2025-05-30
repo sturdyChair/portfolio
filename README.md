@@ -64,3 +64,14 @@
 >
 
 <br />
+
+## 6. Mesh Destruction(1인)
+
+>
+> - 개발기간 : 2025.04 ~ 2025.5
+> - 언어 : C++
+> - 그래픽스 : DirectX 11
+> - 코드 : [깃허브 링크](https://github.com/sturdyChair/MeshDestruction)
+>
+
+<br />
