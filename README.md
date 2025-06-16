@@ -36,7 +36,7 @@
 > - 언어 : C++
 > - 그래픽스 : DirectX 11
 > - 영상 링크 : [링크](https://www.youtube.com/watch?v=o1cv1M6C4Eo)
-> - 코드 : [깃허브 링크](https://github.com/sturdyChair/BPM)
+> - 코드 및 설명 : [깃허브 링크](https://github.com/sturdyChair/BPM)
 >
 
 <br />
@@ -49,7 +49,7 @@
 > - 언어 : C++
 > - 그래픽스 : DirectX 11
 > - 영상 링크 : [공통영상](https://youtu.be/rwTkUgP4ITA) , [개인작업](https://www.youtube.com/watch?v=1qcnJ9FaIY8)
-> - 코드 : [깃허브 링크](https://github.com/sturdyChair/Hi-Fi-Rush)
+> - 코드 및 설명 : [깃허브 링크](https://github.com/sturdyChair/Hi-Fi-Rush)
 >
 
 <br />
@@ -60,7 +60,7 @@
 > - 개발기간 : 2024.12 ~ 2025.01
 > - 언어 : C++, Unreal Engine
 > - 영상 링크 : [링크](https://www.youtube.com/watch?v=lIVTU3Tcvj8&ab_channel=%EC%9E%84%EC%9E%AC%ED%9C%98)
-> - 코드 : [깃허브 링크](https://github.com/sturdyChair/UE_SimpleShooter)
+> - 코드 및 설명 : [깃허브 링크](https://github.com/sturdyChair/UE_SimpleShooter)
 >
 
 <br />
