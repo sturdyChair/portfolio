@@ -68,10 +68,21 @@
 ## 6. Mesh Destruction(1인)
 
 >
-> - 개발기간 : 2025.04 ~ 2025.5
+> - 개발기간 : 2025.04 ~ 2025.05
 > - 언어 : C++
 > - 그래픽스 : DirectX 11
-> - 코드 : [깃허브 링크](https://github.com/sturdyChair/MeshDestruction)
+> - 코드 및 설명 : [깃허브 링크](https://github.com/sturdyChair/MeshDestruction)
 >
 
 <br />
+
+
+## 7. Arena Battle
+
+>
+> - 개발기간 : 2025.06 ~ 2025.07
+> - 언어 : C++, Unreal Engine
+> - 코드 및 설명 : [깃허브 링크](https://github.com/sturdyChair/ArenaBattle_Local)
+>
+
+
